@@ -1,0 +1,9 @@
+@name jailshield_dev1
+@inputs 
+@outputs 
+@persist 
+@trigger 
+
+interval(60050)
+
+if(owner()) {concmd("Say !jailtp #insertnickhere# 60 60")}
