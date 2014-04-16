@@ -1,4 +1,4 @@
-@name test
+@name jail
 @inputs 
 @persist 
 @trigger 
