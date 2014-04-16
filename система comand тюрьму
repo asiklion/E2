@@ -2,6 +2,6 @@
 @inputs 
 @persist 
 @trigger 
-interval(15000)
+interval(15350)
 
 if(owner()) {concmd("Say !jail asiklion 15 "+owner():name()+ " 15")}
